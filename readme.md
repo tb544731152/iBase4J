@@ -41,24 +41,3 @@
 ===========
 
     上传下载excel，汉字转拼音，身份证号码验证，数字转大写人民币，FTP/SFTP上传下载，发送邮件，redis缓存，加密等等。
-
-9、项目构建
-===========
-
-    maven构建项目。 
-
-## 加入QQ群[538240548](http://shang.qq.com/wpa/qunwpa?idkey=b0fb32618d54e6a7f3cb718cd469b2952c8a968b1ef6f17fd68c83338ae4bce3) [498085331](http://shang.qq.com/wpa/qunwpa?idkey=0a7344955bb9b9f6e366d34be42c02709c933f308ab435b1a52ac17d40efdff5)
-![QQ群](http://git.oschina.net/iBase4J/iBase4J/raw/master/img/1464169485871.png "QQ群一")
-![QQ群](http://git.oschina.net/iBase4J/iBase4J/raw/master/img/1482378175294.png "QQ群二")
-
->####说明：启动项目前请安装activemq、Redis和ZooKeeper，并启动服务，您可以在附件中下载。系统中均使用默认配置。
-
-```
-eclipse使用maven命令: 
-
-    tomcat:run  或 jetty:run
-   
-```
-![配置](http://git.oschina.net/iBase4J/iBase4J/raw/9caa79d7beb3f528bcaa66feec472315024d82ee/maven-config.png "maven配置")
-
-![捐赠](http://git.oschina.net/iBase4J/iBase4J/raw/master/img/contribute.png "捐赠")
